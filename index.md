@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MALLI7622/Twitter_GeoSpatial_Visualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Twitter GeoSpatial Visualization
+ This repository contains geospatial visualization of twitter data, We had collected four months of twitter about 1TB. Visualization of all these data looks confusing to which tweet belongs to which category. For better understanding of the visualization We had filter the tweets by the terms of interest. Below you can see the 2D-Visuliazation of the tweets
+ 
+![2D Visualization of the GeoCoded Tweets](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/trash_pollution_and_garbage_sample2.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In 2D Visualiztion of twitter data you can only find in which place more tweets are apper, you can find complete information like in which coordinate more tweets appering. We don't this kind of information in 2D Visulization. To visualize the tweets in 3D manner we had used [kepler GL](https://kepler.gl/). 
 
-### Markdown
+###### 3D visulization of Tweets in San Francisco Area
+![3D visulization of Tweets in San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco1.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### 3D visulization of Tweets in New York Area
+![3D visulization of Tweets in New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york1.png)
 
-```markdown
-Syntax highlighted code block
+In kepler.gl we've different options for visualization the data like clustering, Hexabin, Polygon, etc., We're going to visualize this data in Hexabins. In Hexabins we can also choose in how much distance we want between two tweets to bin up. Also we can choose elavation height for better understading of the tweets.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### Hexabin Visualization of Tweets
 
-1. Numbered
-2. List
+###### Hexabin Visualization of Tweets in United States
 
-**Bold** and _Italic_ and `Code` text
+From this figure below you can easily find in which place more number tweets are coming.
 
-[Link](url) and ![Image](src)
-```
+![Hexabin Visualization of Tweets in United States](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/us-tweets-hexabins1.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Let's visulize the tweets in San Francisco and New York
 
-### Jekyll Themes
+![Hexabin Visulization of San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco%20hexabin.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MALLI7622/Twitter_GeoSpatial_Visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Hexabin Visulization of New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york%20hexabin.png)

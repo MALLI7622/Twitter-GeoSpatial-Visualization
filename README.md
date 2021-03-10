@@ -17,11 +17,13 @@ In kepler.gl we've different options for visualization the data like clustering,
 #### Hexabin Visualization of Tweets
 
 ###### Hexabin Visualization of Tweets in United States
+
 From this figure below you can easily find in which place more number tweets are coming.
 
 ![Hexabin Visualization of Tweets in United States](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/us-tweets-hexabins1.png)
 
 Let's visulize the tweets in San Francisco and New York
+
 ![Hexabin Visulization of San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco%20hexabin.png)
 
 ![Hexabin Visulization of New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york%20hexabin.png)

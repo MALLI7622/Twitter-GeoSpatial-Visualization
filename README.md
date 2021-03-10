@@ -7,3 +7,6 @@ In 2D Visualiztion of twitter data you can only find in which place more tweets 
 
 ###### 3D visulization of Tweets in San Francisco Area
 ![3D visulization of Tweets in San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco1.png)
+
+###### 3D visulization of Tweets in New York Area
+![3D visulization of Tweets in New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york1.png)

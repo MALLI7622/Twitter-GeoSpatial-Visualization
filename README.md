@@ -14,8 +14,9 @@ In 2D Visualiztion of twitter data you can only find in which place more tweets 
 In kepler.gl we've different options for visualization the data like clustering, Hexabin, Polygon, etc., We're going to visualize this data in Hexabins. In Hexabins we can also choose in how much distance we want between two tweets to bin up. Also we can choose elavation height for better understading of the tweets.
 
 
-##### Hexabin Visualization of Tweets
+#### Hexabin Visualization of Tweets
 
 ###### Hexabin Visualization of Tweets in United States
 From this figure below you can easily find in which place more number tweets are coming.
+
 ![Hexabin Visualization of Tweets in United States](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/us-tweets-hexabins1.png)

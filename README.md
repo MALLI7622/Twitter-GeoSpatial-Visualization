@@ -6,3 +6,4 @@
 In 2D Visualiztion of twitter data you can only find in which place more tweets are apper, you can find complete information like in which coordinate more tweets appering. We don't this kind of information in 2D Visulization. To visualize the tweets in 3D manner we had used [kepler GL](https://kepler.gl/). 
 
 ###### 3D visulization of Tweets in San Francisco Area
+![3D visulization of Tweets in San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco1.png)

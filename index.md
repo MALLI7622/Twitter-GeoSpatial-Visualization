@@ -1,5 +1,4 @@
-
-# GeoSpatial Visualization of Twitter Data
+# Twitter GeoSpatial Visualization
  This repository contains geospatial visualization of twitter data, We had collected four months of twitter about 1TB. Visualization of all these data looks confusing to which tweet belongs to which category. For better understanding of the visualization We had filter the tweets by the terms of interest. Below you can see the 2D-Visuliazation of the tweets
  
 ![2D Visualization of the GeoCoded Tweets](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/trash_pollution_and_garbage_sample2.png)
@@ -28,3 +27,7 @@ Let's visulize the tweets in San Francisco and New York
 ![Hexabin Visulization of San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco%20hexabin.png)
 
 ![Hexabin Visulization of New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york%20hexabin.png)
+
+Want to explore the kepler.gl by yourself download the sample data from here [sample-data.csv](https://github.com/MALLI7622/Twitter-GeoSpatial-Visualization/blob/main/sample-data.csv) and go the [kepler GL demo page](https://kepler.gl/demo) upload this data and explore yourself with the data.
+
+Need any further help feel free to reach at tmallikarjuna111@gmail.com

@@ -28,4 +28,4 @@ Let's visulize the tweets in San Francisco and New York
 
 ![Hexabin Visulization of New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york%20hexabin.png)
 
-[Visualize](https://github.com/MALLI7622/Twitter-GeoSpatial-Visualization/blob/main/trash_tweets.html)
+If you want to explore the data by yourself download the sample data from here [sample-data.csv](https://github.com/MALLI7622/Twitter-GeoSpatial-Visualization/blob/main/sample-data.csv) and go the [kepler GL demo page](https://kepler.gl/demo) upload this data and explore yourself with the data.

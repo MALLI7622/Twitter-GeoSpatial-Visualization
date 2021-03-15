@@ -27,3 +27,5 @@ Let's visulize the tweets in San Francisco and New York
 ![Hexabin Visulization of San Francisco Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/san%20francisco%20hexabin.png)
 
 ![Hexabin Visulization of New York Area](https://raw.githubusercontent.com/MALLI7622/Twitter_GeoSpatial_Visualization/main/new%20york%20hexabin.png)
+
+[Visualize](https://github.com/MALLI7622/Twitter-GeoSpatial-Visualization/blob/main/trash_tweets.html)
